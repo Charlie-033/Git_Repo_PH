@@ -1,4 +1,12 @@
-div{
+.fst {
     background-color: tomato;
+    padding: 10px;
+}
+.snd {
+    background-color: rgb(2, 137, 11);
+    padding: 10px;
+}
+.trd {
+    background-color: rgb(9, 59, 146);
     padding: 10px;
 }
